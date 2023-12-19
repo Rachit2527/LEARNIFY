@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Music Recommendation App - Recommendations</title>
+</head>
+<body>
+    <h1>Music Recommendation</h1>
+    <form method="post" action="/music_recommendation">
+        <label for="selected_song">Select a song:</label>
+        <select id="selected_song" name="selected_song" required>
+            {% for song in songs %}
+                <option value="{{ song }}">{{ song }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Get Recommendations</button>
+    </form>
+    {% if recommendations %}
+        <h2>Recommended Songs:</h2>
+        <ul>
+            {% for song in recommendations %}
+                <li>{{ song }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
