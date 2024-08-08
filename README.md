@@ -19,13 +19,13 @@ Book Recommendation System:
 
 Flashcards:
 
-![Screenshot (2177)](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2753).png?raw=true)
+![Flashcards](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2753).png?raw=true)
 
 StudyNotes:
 
-![Screenshot (2176)](https://github.com/Rachit2527/APP-FOR-STUDY/assets/95185930/92ea9a84-8987-4210-8f00-a82d25a3597c)
+![StudyNotes](https://github.com/Rachit2527/APP-FOR-STUDY/assets/95185930/92ea9a84-8987-4210-8f00-a82d25a3597c)
 
 ToDo List:
 
-![Screenshot (2175)](https://github.com/Rachit2527/APP-FOR-STUDY/assets/95185930/47159e06-3bbd-4edc-8e21-46dae933a956)
+![ToDo List](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2755).png?raw=true)
 
