@@ -19,7 +19,7 @@ Book Recommendation System:
 
 Music Recommendation System:
 
-!Music Recommendation](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2753).png?raw=true)
+![Music Recommendation](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2753).png?raw=true)
 
 Flashcards:
 
