@@ -15,7 +15,7 @@ Text Similarity Score Predictor:
 
 Book Recommendation System:
 
-![Screenshot (2187)](https://github.com/Rachit2527/APP-FOR-STUDY/assets/95185930/47b9e07b-12dd-4b3a-a4df-dfe0f9f9ba32)
+![Book Recommendation)](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2751).png?raw=true)
 
 Movie Recommendation System:
 
