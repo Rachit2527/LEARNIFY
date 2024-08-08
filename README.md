@@ -17,6 +17,10 @@ Book Recommendation System:
 
 ![Book Recommendation)](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2751).png?raw=true)
 
+Music Recommendation System:
+
+!Music Recommendation](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2753).png?raw=true)
+
 Flashcards:
 
 ![Flashcards](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2753).png?raw=true)
