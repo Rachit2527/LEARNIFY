@@ -11,7 +11,7 @@ The options present in the navigation bar are: Text Similarity Score Predictor, 
 
 Text Similarity Score Predictor:
 
-![Screenshot (2179)](https://github.com/Rachit2527/APP-FOR-STUDY/assets/95185930/3aac55e5-09b4-4314-9b29-70bbc6e0ef3e)
+!https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2749).png?raw=true
 
 Book Recommendation System:
 
