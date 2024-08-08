@@ -5,7 +5,7 @@ A utility app for students containing functions like a book recommendation syste
 ## OVERVIEW
 The home page looks like this
 
-![Screenshot (2184)](https://github.com/Rachit2527/APP-FOR-STUDY/assets/95185930/ca22b65a-15bc-4db5-8457-feca2eec3068)
+!https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2749).png?raw=true
 
 The options present in the navigation bar are: Text Similarity Score Predictor, IPL Score Predictor, Book Recommendation System, Music Recommendation System, Flashcards, Study Notes and Todo List
 
