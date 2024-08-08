@@ -19,7 +19,7 @@ Book Recommendation System:
 
 Movie Recommendation System:
 
-![Screenshot (2180)](https://github.com/Rachit2527/APP-FOR-STUDY/assets/95185930/61170378-1963-4705-9f7e-add7f6791b20)
+![Screenshot (2180)](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2752).png?raw=true)
 
 Flashcards:
 
