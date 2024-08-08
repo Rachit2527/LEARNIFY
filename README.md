@@ -1,6 +1,6 @@
 # LEARNIFY
 
-A utility app for students containing functions like a book recommendation system, flashcards, text similarity score predictor, note making, a music recommendation system, and ipl score predictor.
+A utility app for students containing functions like a book recommendation system, flashcards, text similarity score predictor, note making, a music recommendation system, and todo list.
 
 ## OVERVIEW
 The home page looks like this
@@ -17,13 +17,9 @@ Book Recommendation System:
 
 ![Book Recommendation)](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2751).png?raw=true)
 
-Movie Recommendation System:
-
-![Screenshot (2180)](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2752).png?raw=true)
-
 Flashcards:
 
-![Screenshot (2177)](https://github.com/Rachit2527/APP-FOR-STUDY/assets/95185930/c808ba24-2e49-4543-8c67-49f7ad88f3ad)
+![Screenshot (2177)](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2753).png?raw=true)
 
 StudyNotes:
 
