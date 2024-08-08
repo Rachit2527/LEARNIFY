@@ -23,8 +23,7 @@ Flashcards:
 
 StudyNotes:
 
-![StudyNotes](https://github.com/Rachit2527/APP-FOR-STUDY/assets/95185930/92ea9a84-8987-4210-8f00-a82d25a3597c)
-
+![StudyNotes](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2754).png?raw=true)
 ToDo List:
 
 ![ToDo List](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2755).png?raw=true)
