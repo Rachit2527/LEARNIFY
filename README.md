@@ -1,6 +1,6 @@
 # LEARNIFY
 
-A utility app for students containing functions like a book recommendation system, flashcards, text similarity score predictor, note making, a music recommendation system, and todo list.
+A utility app for students containing functions like a book recommendation system, flashcards, text similarity score predictor, note making, a music recommendation system, Text Summarizer, Question Answer AI tool, Resume Matcher, and to-do list.
 
 ## OVERVIEW
 The home page looks like this
