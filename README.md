@@ -38,7 +38,7 @@ Flashcards:
 StudyNotes:
 
 ![StudyNotes](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2976).png?raw=true)
-ToDo List:
 
-![ToDo List](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2755).png?raw=true)
+To-do List
+![ToDo List](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2977).png?raw=true)
 
