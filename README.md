@@ -7,27 +7,37 @@ The home page looks like this
 
 ![Home Page](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2966).png?raw=true)
 
-The options present in the navigation bar are: Text Similarity Score Predictor, IPL Score Predictor, Book Recommendation System, Music Recommendation System, Flashcards, Study Notes and Todo List
+The options present in the navigation bar are: Text Similarity Score Predictor, Book Recommendation System, Music Recommendation System, Flashcards, Study Notes, Text Summarizer, Resume Category Predictor, Resume Matcher, Question Answer AI Tool and To-do List
 
 Text Similarity Score Predictor:
 
-![Text Similarity](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2750).png?raw=true)
+![Text Similarity](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2968).png?raw=true)
 
 Book Recommendation System:
 
-![Book Recommendation)](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2751).png?raw=true)
+![Book Recommendation)](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2969).png?raw=true)
 
 Music Recommendation System:
 
-![Music Recommendation](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2752).png?raw=true)
+![Music Recommendation](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2970).png?raw=true)
+
+Resume Category Prediction
+![Resume Category Prediction](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2971).png?raw=true)
+
+Resume-Job Description Matcher
+![Resume-Job Description Matcher](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2972).png?raw=true)
+![Resume-Job Description Matcher](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2973).png?raw=true)
+
+AI Chatbot
+![AI Chatbot](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2974).png?raw=true)
 
 Flashcards:
 
-![Flashcards](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2753).png?raw=true)
+![Flashcards](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2975).png?raw=true)
 
 StudyNotes:
 
-![StudyNotes](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2754).png?raw=true)
+![StudyNotes](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2976).png?raw=true)
 ToDo List:
 
 ![ToDo List](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2755).png?raw=true)
