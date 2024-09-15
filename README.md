@@ -5,7 +5,7 @@ A utility app for students containing functions like a book recommendation syste
 ## OVERVIEW
 The home page looks like this
 
-![Home Page](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2966).png?raw=true)
+![Home Page](https://github.com/Rachit2527/LEARNIFY/blob/master/Home.png?raw=true)
 
 The options present in the navigation bar are: Text Similarity Score Predictor, Book Recommendation System, Music Recommendation System, Flashcards, Study Notes, Text Summarizer, Resume Category Predictor, Resume Matcher, Question Answer AI Tool and To-do List
 
