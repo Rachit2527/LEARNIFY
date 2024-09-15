@@ -31,6 +31,10 @@ Resume-Job Description Matcher
 AI Chatbot
 ![AI Chatbot](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2974).png?raw=true)
 
+Document Question Generator
+![Document Question Generator](https://github.com/Rachit2527/LEARNIFY/blob/master/Document%20Question%20Answering.png?raw=true)
+
+
 Flashcards:
 
 ![Flashcards](https://github.com/Rachit2527/LEARNIFY/blob/master/Screenshot%20(2975).png?raw=true)
